@@ -1,3 +1,2 @@
-# Git Practice
-# Second Linegit 
-# Third Line
+## My Git Practice
+Learning branches, commits, push and pull.
